@@ -55,9 +55,10 @@ Run the server
 ```
 ## Output:
 
+![sec map](https://user-images.githubusercontent.com/118807740/215248136-a9d9ffb3-93c6-456d-a614-89d6560f5d64.png)
 
 
-![sec map](https://user-images.githubusercontent.com/118807740/215248091-8fd2b3c2-6573-4bfb-92dd-35c7193ac154.png)
+
 
 ## Result:
 The experiment was executed successfully.
