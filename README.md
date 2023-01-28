@@ -54,7 +54,7 @@ Run the server
 </html>
 ```
 ## Output:
-![sec map](https://user-images.githubusercontent.com/118807740/215245901-5a22ef92-f64d-4911-ad00-6221847f9841.png)
+![sec map](https://user-images.githubusercontent.com/118807740/215247439-5d3ae93e-2abd-46e0-acac-4c1bace97e88.png)
 
 
 ## Result:
