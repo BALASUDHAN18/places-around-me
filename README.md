@@ -1,8 +1,8 @@
-Places Around Me
-AIM:
+## Places Around Me
+## AIM:
 To develop a website to display details about the places around my house.
 
-Design Steps:
+## Design Steps:
 Step 1:
 Create a Django project abd app.
 
@@ -18,7 +18,7 @@ Import views files and define the paths in urls file.
 Step 5:
 Run the server
 
-Code:
+## Code:
 ```
 <!DOCTYPE html>
 {% load static %}
@@ -53,9 +53,9 @@ Code:
 </body>
 </html>
 ```
-Output:
-![sec map](https://user-images.githubusercontent.com/118807740/215243627-047ff584-c6af-4cc0-adac-f8dfb38c3f45.png)
+## Output:
+![sec map](https://user-images.githubusercontent.com/118807740/215245901-5a22ef92-f64d-4911-ad00-6221847f9841.png)
 
 
-Result:
+## Result:
 The experiment was executed successfully.
