@@ -55,8 +55,8 @@ Run the server
 ```
 ## Output:
 
-![sec map](https://user-images.githubusercontent.com/118807740/215248136-a9d9ffb3-93c6-456d-a614-89d6560f5d64.png)
 
+![image](https://user-images.githubusercontent.com/118807740/215248813-4623ddcc-278f-43b8-b2dd-b4ea34608458.png)
 
 
 
