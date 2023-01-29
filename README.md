@@ -42,9 +42,9 @@ Run the server
    <a href="temple.html"> <li  id="temple">TEMPLE</li> </a>
     
    <a href="home.html">    <li id="home">HOME</h3> </li></a>
-    <a href="church.html">   <li  id="church">Church</h3> </li></a>
+    <a href="postoffice.html">   <li  id="postoffice">POSTOFFICE</h3> </li></a>
     <a href="school.html">   <li  id="school">School</h3> </li></a>
-    <a href="park.html">   <li  id="park">Park</h3> </li></a>
+    <a href="market.html">   <li  id="market">market</h3> </li></a>
             
             </ul> 
 
