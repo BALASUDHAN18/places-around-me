@@ -173,10 +173,15 @@ While looking for Readymade Garment Retailers, Bigg Boss Fashion King in Tirumul
 ```
 
 ## Output:
+
 ![image](https://user-images.githubusercontent.com/118807740/215311630-0cfc9f57-9702-433a-bc96-8df545dfec24.png)
+
 ![image](https://user-images.githubusercontent.com/118807740/215311673-a07ad635-2fca-497b-a103-5dec96c18dba.png)
+
 ![image](https://user-images.githubusercontent.com/118807740/215311716-cc6ee02d-299d-476d-a97e-93c7c27efa79.png)
+
 ![image](https://user-images.githubusercontent.com/118807740/215311754-882db0e2-7360-4f21-84ac-655ce2ccebc2.png)
+
 ![image](https://user-images.githubusercontent.com/118807740/215311785-779f0404-496d-48d9-b2c3-462ec03211ab.png)
 
 
